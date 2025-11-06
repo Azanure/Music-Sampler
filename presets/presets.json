@@ -1,0 +1,7 @@
+[
+  { "name": "Basic Kit", "file": "basic-kit.json" },
+  { "name": "808", "file": "808.json" },
+  { "name": "Electronic", "file": "electronic.json" },
+  { "name": "Hip Hop", "file": "hip-hop.json" },
+  { "name": "Steveland Vinyl", "file": "steveland-vinyl.json" }
+]
