@@ -5,6 +5,7 @@
 Petit sampler WebAudio modulaire : un moteur réutilisable (`SamplerEngine`) et une interface optionnelle (`SamplerGUI`) avec visualisation de forme d'onde et barres de découpe (trim) interactives.
 
 Groupe : Cazacu Ion et Virgile Lassagne
+=======
 
 </div>
 
